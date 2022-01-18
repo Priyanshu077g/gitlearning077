@@ -2,3 +2,4 @@ HEllo how are you
 skjdbs
 ohk
 jungle oh bhai
+git add remote origin 
